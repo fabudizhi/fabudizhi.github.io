@@ -73,7 +73,7 @@
             </h1>
             <p>亲爱的用户，为了确保您能够准确并快速访问我们的网站，请记住访问以下域名：</p>#可以修改
             <p>
-                <a href="https://伺鵪r.bumilu.cyou/刡p" target="_blank">点击直达</a>#可以修改  并复制增加更多
+                <a href="https://伺鵪r.bumilu..org" target="_blank">点击直达</a>#可以修改  并复制增加更多
             </p>
             
             <p>
